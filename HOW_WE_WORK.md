@@ -4,7 +4,7 @@ This document covers tools, communication norms, and weekly rhythm. Read this fi
 
 ## Communication
 
-**Discord** ([discord.gg/7zKAh7dr](https://discord.gg/7zKAh7dr)) is where real-time discussion happens. All coordination, announcements, and informal conversation lives here. If something important is decided in Discord, someone must record it in the appropriate GitHub issue or wiki page.
+**Discord** ([discord.gg/8ZrxF9qU](https://discord.gg/8ZrxF9qU)) is where real-time discussion happens. All coordination, announcements, and informal conversation lives here. If something important is decided in Discord, someone must record it in the appropriate GitHub issue or wiki page.
 
 **GitHub** ([github.com/Entropic-Science](https://github.com/Entropic-Science)) is the system of record for all persistent information: code, task tracking (via GitHub Projects), documentation (via wiki), and decision logs (via Discussions).
 
