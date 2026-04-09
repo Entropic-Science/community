@@ -37,7 +37,12 @@ To pick up work: find an unassigned issue, comment that you are taking it, and a
 
 ## Knowledge base
 
-The GitHub wiki in the `community` repository houses persistent documentation: meeting notes, research summaries, literature references, decision logs, and how-to guides. Anyone with repository access can edit it.
+The [knowledge-base](https://github.com/Entropic-Science/knowledge-base) repository is the central hub for shared content and division coordination. It contains:
+
+- **Library**: space to share research notes, project documentation, and writeups (anyone can contribute via PR)
+- **Division boards**: each division (Infrastructure, Research, Outreach-Fundraising) has a roster, proposals page, and active projects list
+
+See the [knowledge-base README](https://github.com/Entropic-Science/knowledge-base#readme) for how to use it.
 
 ## Norms
 

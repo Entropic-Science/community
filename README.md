@@ -51,7 +51,10 @@ The full reasoning, research agenda, and philosophical context are in the [Chart
 
 ## Active projects
 
-`[PLACEHOLDER: Projects will be listed here as they are established under the Entropic Science organization.]`
+| Project | Description |
+|---------|-------------|
+| [qr-sampler](https://github.com/Entropic-Science/qr-sampler) | Integrate any source of randomness into LLM token sampling — modular profiles for inference engines, entropy sources, sampling methods |
+| [knowledge-base](https://github.com/Entropic-Science/knowledge-base) | Central knowledge base — shared library, division boards (rosters, proposals, active projects) |
 
 ## Workstreams
 
@@ -68,7 +71,7 @@ The full reasoning, research agenda, and philosophical context are in the [Chart
 |------|---------|
 | [Discord](https://discord.gg/7zKAh7dr) | Real-time discussion, voice calls, coordination |
 | [GitHub Projects](https://github.com/orgs/Entropic-Science/projects) | Task boards, backlog, issue tracking |
-| GitHub Wiki | Knowledge base, research notes, literature references |
+| [Knowledge base](https://github.com/Entropic-Science/knowledge-base) | Shared research, project docs, division rosters and proposals |
 
 ## Administration
 
