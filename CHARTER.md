@@ -172,7 +172,7 @@ Roughly in priority order:
 **Welcoming culture.** Communities survive by bringing in new people who gradually take ownership. Making this a place where newcomers feel welcome and can find their footing is as critical as the technical work. Former members inevitably move on. That is normal lifecycle.
 ### How to join
 
-1. Join Discord: [discord.gg/8ZrxF9qU](https://discord.gg/8ZrxF9qU)
+1. Join Discord: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
 2. Introduce yourself in `#introductions`
 3. Read the founding documents on GitHub: [github.com/Entropic-Science](https://github.com/Entropic-Science)
 4. Show up to a weekly call or pick up an issue. No permission needed to start.

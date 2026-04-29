@@ -6,7 +6,7 @@ Please read the [Code of conduct](CODE_OF_CONDUCT.md) before participating.
 
 ## Getting started
 
-**Step 1: Join Discord** at [discord.gg/8ZrxF9qU](https://discord.gg/8ZrxF9qU) and introduce yourself in `#introductions`. Mention your background, interests, and what kind of work you would like to do.
+**Step 1: Join Discord** at [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS) and introduce yourself in `#introductions`. Mention your background, interests, and what kind of work you would like to do.
 
 **Step 2: Explore active projects.** Browse the repositories listed in the [README](README.md) and the task boards on [GitHub Projects](https://github.com/orgs/Entropic-Science/projects). Look for issues labeled `good-first-issue` for accessible starting points.
 

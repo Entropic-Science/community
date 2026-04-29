@@ -3,7 +3,7 @@
 An open research collective building quantum-random AI systems, studying their properties and potential advantages over pseudo-random AI, and advancing the scientific understanding of quantum randomness, consciousness, and their implications for AI alignment.
 
 **GitHub**: [github.com/Entropic-Science](https://github.com/Entropic-Science)
-**Discord**: [discord.gg/8ZrxF9qU](https://discord.gg/8ZrxF9qU)
+**Discord**: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
 
 ## The mission
 
@@ -35,7 +35,7 @@ The full reasoning, research agenda, and philosophical context are in the [Chart
 
 ## Quick start
 
-1. **Join Discord**: [discord.gg/8ZrxF9qU](https://discord.gg/8ZrxF9qU)
+1. **Join Discord**: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
 2. **Introduce yourself** in `#introductions`
 3. **Read** [How we work](HOW_WE_WORK.md) to understand our tools and processes
 4. **Start contributing**: see [Contributing guide](CONTRIBUTING.md)
@@ -69,7 +69,7 @@ The full reasoning, research agenda, and philosophical context are in the [Chart
 
 | Tool | Purpose |
 |------|---------|
-| [Discord](https://discord.gg/8ZrxF9qU) | Real-time discussion, voice calls, coordination |
+| [Discord](https://discord.gg/2EbveaB2wS) | Real-time discussion, voice calls, coordination |
 | [GitHub Projects](https://github.com/orgs/Entropic-Science/projects) | Task boards, backlog, issue tracking |
 | [Knowledge base](https://github.com/Entropic-Science/knowledge-base) | Shared research, project docs, division rosters and proposals |
 
@@ -93,4 +93,4 @@ Research and content: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/
 ## Contact
 
 Admins: `[PLACEHOLDER: shared email address]`
-Discord: [discord.gg/8ZrxF9qU](https://discord.gg/8ZrxF9qU)
+Discord: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
