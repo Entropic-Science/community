@@ -1,0 +1,6 @@
+# Normalize line endings: store LF in the repo, check out LF on every platform
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.pdf binary
