@@ -14,7 +14,7 @@ Please read the [Code of conduct](CODE_OF_CONDUCT.md) before participating.
 
 ## Divisions
 
-Work is organized into three divisions, roughly in order of current priority. Each has a roster, proposals page, and active projects list in the [knowledge base](https://github.com/Entropic-Science/knowledge-base).
+Work is organized into three divisions, roughly in order of current priority. Members and projects are listed in the [knowledge base](https://github.com/Entropic-Science/knowledge-base). To join a division, add a row to [MEMBERS.md](https://github.com/Entropic-Science/knowledge-base/blob/main/MEMBERS.md). To propose a project, add a row to [PROJECTS.md](https://github.com/Entropic-Science/knowledge-base/blob/main/PROJECTS.md).
 
 ### Infrastructure
 Software development on quantum-random AI/LLM inference pipelines, QRNG hardware integration, gRPC server standards, PRNG/QRNG comparison modes, evaluation harnesses, and alternative entropy sources (DRAM timing noise, etc.).

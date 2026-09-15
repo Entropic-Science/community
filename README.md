@@ -55,7 +55,7 @@ The full reasoning, research agenda, and philosophical context are in the [Chart
 | Project | Description |
 |---------|-------------|
 | [qr-sampler](https://github.com/Entropic-Science/qr-sampler) | Integrate any source of randomness into LLM token sampling — modular profiles for inference engines, entropy sources, sampling methods |
-| [knowledge-base](https://github.com/Entropic-Science/knowledge-base) | Central knowledge base — shared library, division boards (rosters, proposals, active projects) |
+| [knowledge-base](https://github.com/Entropic-Science/knowledge-base) | Members list, project list, shared library of research notes and writeups |
 
 ## Divisions
 
@@ -65,7 +65,7 @@ The full reasoning, research agenda, and philosophical context are in the [Chart
 | Research | Experimental design, benchmarks and evaluation suites, statistical analysis, theoretical frameworks, literature synthesis, philosophy of mind, AI alignment theory, publications |
 | Outreach-Fundraising | Grant applications, partnerships, investor outreach, social media, articles, events, onboarding, community operations |
 
-Each division has a roster, proposals page, and active projects list in the [knowledge base](https://github.com/Entropic-Science/knowledge-base).
+Members and projects per division are listed in the [knowledge base](https://github.com/Entropic-Science/knowledge-base) ([MEMBERS.md](https://github.com/Entropic-Science/knowledge-base/blob/main/MEMBERS.md), [PROJECTS.md](https://github.com/Entropic-Science/knowledge-base/blob/main/PROJECTS.md)).
 
 ## Tools
 
@@ -73,7 +73,7 @@ Each division has a roster, proposals page, and active projects list in the [kno
 |------|---------|
 | [Discord](https://discord.gg/2EbveaB2wS) | Real-time discussion, voice calls, coordination |
 | [GitHub Projects](https://github.com/orgs/Entropic-Science/projects) | Task boards, backlog, issue tracking |
-| [Knowledge base](https://github.com/Entropic-Science/knowledge-base) | Shared research, project docs, division rosters and proposals |
+| [Knowledge base](https://github.com/Entropic-Science/knowledge-base) | Members, projects, shared research notes and writeups |
 
 ## Administration
 

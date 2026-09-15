@@ -33,12 +33,16 @@ To pick up work: find an unassigned issue, comment that you are taking it, and a
 
 ## Knowledge base
 
-The [knowledge-base](https://github.com/Entropic-Science/knowledge-base) repository is the central hub for shared content and division coordination. It contains:
+The [knowledge-base](https://github.com/Entropic-Science/knowledge-base) repository holds the community's shared records:
 
-- **Library**: space to share research notes, project documentation, and writeups (anyone can contribute via PR)
-- **Division boards**: each division (Infrastructure, Research, Outreach-Fundraising) has a roster, proposals page, and active projects list
+| File | Contents |
+|------|----------|
+| [MEMBERS.md](https://github.com/Entropic-Science/knowledge-base/blob/main/MEMBERS.md) | Who is here, which division, what they work on |
+| [PROJECTS.md](https://github.com/Entropic-Science/knowledge-base/blob/main/PROJECTS.md) | Proposed, active, and finished projects |
+| [library/](https://github.com/Entropic-Science/knowledge-base/tree/main/library) | Research notes, writeups, docs |
+| [funding/](https://github.com/Entropic-Science/knowledge-base/tree/main/funding) | Grant and funding material |
 
-See the [knowledge-base README](https://github.com/Entropic-Science/knowledge-base#readme) for how to use it.
+Edit it directly if you have write access; otherwise fork and open a PR. Add yourself to `MEMBERS.md` when you join. Propose a project by adding a `Proposed` row to `PROJECTS.md`.
 
 ## Norms
 
