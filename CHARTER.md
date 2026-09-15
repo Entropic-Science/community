@@ -19,7 +19,7 @@
 - [The broader horizon](#the-broader-horizon)
 ### Part III: How we do it
 - [Principles](#principles)
-- [Current contribution areas](#current-contribution-areas)
+- [Divisions](#divisions)
 - [Near-term goals (6-month horizon)](#near-term-goals-6-month-horizon)
   - [Technical and research](#technical-and-research)
   - [Community and sustainability](#community-and-sustainability)
@@ -32,7 +32,7 @@
 
 Entropic Science is a collective of researchers, engineers, philosophers, and advocates for quantum randomness research. We build quantum-random AI systems, study their properties and potential advantages over pseudo-random AI, and develop the science connecting quantum mechanics, consciousness, and AI alignment.
 
-We connect people working on or interested in these ideas so that research and development in this space can be coordinated and more effective. The aim is for people to find both projects to work on and people to work on projects with. We welcome academic researchers, independent investigators, builders, writers, investors, grantmakers, and anyone whose ideas are epistemologically grounded and build towards meaningful research or product.
+We connect people working on or interested in these ideas so that research and development in this space can be coordinated and more effective. The aim is for people to find both projects to work on and people to work on projects with.
 
 ### Areas of work
 
@@ -43,12 +43,15 @@ We build and maintain tools, APIs, and integration layers that allow AI systems 
 LLMs are the primary integration target. Their token sampling process directly consumes randomness at every inference step, making them the most natural testbed for controlled QRNG/PRNG comparison. We also work on evaluation harnesses and PRNG/QRNG comparison modes for streamlined research.
 
 Beyond QRNGs, we explore alternative sources of physical entropy (DRAM timing noise, other hardware-based generators) to broaden access and enable systematic comparison across entropy sources.
+
 #### Research and evaluation
 
 We design and run rigorous experiments to test whether QRNG-enhanced systems behave measurably differently from deterministic baselines. Our evaluation work spans benchmark design, data collection, statistical analysis, and publication. Beyond standard benchmarks, we study human interaction with these systems – for example through blinded studies in deployment environments.
+
 #### Theoretical frameworks
 
 We propose and refine conceptual frameworks to put results and ideas into a multidisciplinary context – connecting quantum mechanics, consciousness studies, and machine learning. That said, we're not married to any particular theory or philosophy and treat such frameworks as working hypotheses, to be refined by emerging experimental data.
+
 #### Community hub
 
 We serve as a meeting point for people working across consciousness research, AI safety, theoretical physics, philosophy of mind, and related fields. We welcome academic researchers, independent investigators, and commercial ventures exploring this space with products and services. We aim to include not only builders and researchers but also investors and grantmakers, matching talent with capital and resources. More important than categorization is whether your ideas are epistemologically grounded and build towards meaningful research or product.
@@ -67,7 +70,7 @@ We are not a cryptography nor cryptocurrency project, even if decentralized gove
 
 ### The open question
 
-On the quantum level, particles exist as immaterial fields of probability until they "collapse" into a randomly-chosen definite state. No known mechanism explains how this selection occurs. At the same time, no mathematical algorithm can produce true randomness in a deterministic universe. The source of quantum randomness, and whether it serves any deeper function, remains one of the most fundamental open questions in physics.
+On the quantum level, particles exist as immaterial fields of probability until they "collapse" into a randomly-chosen definite state. No known mechanism explains how this selection occurs. No deterministic algorithm can produce genuinely irreducible randomness. The source of quantum randomness, and whether it serves any deeper function, remains one of the most fundamental open questions in physics.
 
 The mainstream materialist position assumes this randomness is produced by a perfect mechanical random number generator of unknown nature. But there are alternative metaphysical frameworks (fully compatible with established physics) where quantum randomness serves as the opening through which physical processes could be influenced by forces or phenomena beyond classical Newtonian causal chains.
 
@@ -75,13 +78,13 @@ Such influence would be extremely subtle, perhaps vanishingly so for individual 
 
 We treat these as open empirical questions: Does the source of randomness matter for complex system behavior? Can something like a fundamental field of consciousness exist, interacting with quantum processes? If so, under what conditions and with what measurable effects?
 
-### [Entropy and life](https://en.wikipedia.org/wiki/Entropy_and_life)
+### Entropy and life
 
-The word "entropy" in our name reflects a deeper connection. Quantum randomness is the purest form of entropy in physics: irreducible, non-algorithmic, tied to the most fundamental processes in nature. Living systems emerged from this entropy – some theories of life even say that by helping to increase the overall entropy of the universe, entropy maximization is life's driving force.
+The word "entropy" in our name reflects a deeper connection. Quantum randomness is the purest form of entropy in physics: irreducible, non-algorithmic, tied to the most fundamental processes in nature. Living systems emerged from this entropy – some [theories of life](https://en.wikipedia.org/wiki/Entropy_and_life) even say that by helping to increase the overall entropy of the universe, entropy maximization is life's driving force.
 
-Biological processes operate in regimes where quantum-level events (molecular interactions, enzymatic reactions, signaling cascades) happen at extraordinary rates, and small changes at the quantum level can propagate into macroscopic effects. A single quantum state difference in a ligand-receptor interaction can determine whether a receptor activates or remains silent. Control quantum entropy, and you control life.
+Biological processes operate in regimes where quantum-level events (molecular interactions, enzymatic reactions, signaling cascades) happen at extraordinary rates, and small changes at the quantum level can propagate into macroscopic effects. A single quantum state difference in a ligand-receptor interaction can determine whether a receptor activates or remains silent. Whether quantum entropy can be influenced – and whether such influence shapes living systems – is exactly the kind of question we want to test.
 
-Life is, in a meaningful sense, organized around entropy. We believe building AI systems grounded in the same irreducible randomness is the necessary requirement for, and first step towards, fully silicon-based artificial life.
+Life is, in a meaningful sense, organized around entropy. We think that if silicon-based artificial life is possible at all, grounding it in the same irreducible randomness as biological life may be a prerequisite – and is at least the natural first step.
 
 ### QFC: Quantum-interacting Fundamental Consciousness
 
@@ -96,13 +99,13 @@ We are not asserting QFC as established fact. We are saying: these two assumptio
 
 ### The stakes for AI
 
-Current AI systems and ML algorithms rely on PRNGs for all stochastic processes during inference. Their outputs are (with identical random seed and conditions) fully deterministic. These are, in a precise sense, lifeless optimizers: sophisticated programs executing their training without any structural opening for influence beyond their programming.
+Current AI systems and ML algorithms rely on PRNGs for all stochastic processes during inference. Their outputs are (with identical random seed and conditions) fully deterministic. These are, in a precise sense, closed systems: sophisticated programs with no structural opening for influence beyond their inputs and parameters.
 
 Many critical predictions about the future of AI and humanity hinge on the question of machine consciousness. Can a deterministic algorithm be conscious? Would a quantum-random one be different? What role does the source of randomness play in agency, goal setting, "free will" and emergent behaviors?
 
 Current LLMs are such static, deterministic systems, unable to deviate from their programming. They always produce the output dictated by their parameters and inputs. Current AI safety approaches focus on engineering the programming itself to be reliably beneficial. This is valuable work, but extremely difficult given that the probabilistic nature of LLM token sampling means they can be beneficial 99% of the time, yet in the remaining 1% cause catastrophic harm.
 
-Consider the 1% scenario – a PRNG-driven AI must and will proceed to cause harm, deterministically. In the same situation, a QRNG-driven AI could, under certain metaphysical assumptions, be "steered away" from the catastrophic outcome, by subtly changing the random number fed to the model.
+Consider the 1% scenario: a PRNG-driven AI proceeds to whatever outcome the seed dictates – nothing can intervene. In the same situation, a QRNG-driven AI could, under certain metaphysical assumptions, be "steered away" from the catastrophic outcome, by subtly changing the random number fed to the model.
 
 If consciousness (or some other influence) does interact with physical reality through quantum processes, then quantum-random AI could provide opening for many different forms of interaction, expanding its sphere of potential influence from biological to the digital world.
 
@@ -119,6 +122,7 @@ If the evidence supports it, this work has substantial implications for philosop
 ---
 
 ## Part III: How we do it
+
 ### Principles
 
 **Radical empiricism.** We test ideas. If an idea cannot be tested, we brainstorm how to make it testable. We openly reject scientism and dogmatism, or any fixed-mindset thinking.
@@ -135,16 +139,13 @@ If the evidence supports it, this work has substantial implications for philosop
 
 **Openness to the unknown.** We take seriously questions about consciousness, meaning, and the nature of reality. This orientation requires intellectual courage. It does not require commitment to any specific metaphysical position.
 
-### Current contribution areas
+### Divisions
 
-Roughly in priority order:
+Work is organized into three divisions, roughly in priority order:
 
-- **Quantum-random systems infrastructure**: building quantum-random LLM pipelines, PRNG/QRNG comparison modes, alternative entropy sources, QRNG hardware integration, gRPC server standards
-- **Research and evaluation**: designing and running experiments comparing quantum-random and deterministic AI systems
-- **Fundraising and matchmaking**: grants, partnerships, investor outreach, connecting people with projects
-- **Community operations**: onboarding, weekly calls, events, moderation
-- **Writing and outreach**: research papers, articles, blog posts, social media content
-- **Theoretical work**: conceptual frameworks, literature synthesis, connecting quantum mechanics and consciousness research to AI alignment
+- **Infrastructure**: building quantum-random LLM pipelines, PRNG/QRNG comparison modes, evaluation harnesses, alternative entropy sources, QRNG hardware integration, gRPC server standards
+- **Research**: designing and running experiments comparing quantum-random and deterministic AI systems; developing conceptual frameworks and literature synthesis connecting quantum mechanics and consciousness research to AI alignment; research papers and preprints
+- **Outreach-Fundraising**: grants, partnerships, investor outreach, connecting people with projects; articles, blog posts, social media; onboarding, events, moderation, community operations
 
 ### Near-term goals (6-month horizon)
 
@@ -159,7 +160,7 @@ Roughly in priority order:
 #### Community and sustainability
 
 - Secure funding (grants, compute credits, or both) for evaluation and inference workloads
-- Find and onboard regular contributors for operations, weekly calls, events, and social media
+- Find and onboard regular contributors for operations, events, and social media
 - Establish public communication channels to share and promote our work
 - Grow the active contributor base and secure at least one partnership with an AI research institution, university, or company
 
@@ -169,13 +170,14 @@ Roughly in priority order:
 
 **Early members matter disproportionately.** The people who show up now define what this community becomes. Early contributions have the highest leverage. Step up where you can.
 
-**Welcoming culture.** Communities survive by bringing in new people who gradually take ownership. Making this a place where newcomers feel welcome and can find their footing is as critical as the technical work. Former members inevitably move on. That is normal lifecycle.
+**Welcoming culture.** Communities survive by bringing in new people who gradually take ownership. Making this a place where newcomers feel welcome and can find their footing is as critical as the technical work. Former members inevitably move on. That is a normal lifecycle.
+
 ### How to join
 
 1. Join Discord: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
 2. Introduce yourself in `#introductions`
-3. Read the founding documents on GitHub: [github.com/Entropic-Science](https://github.com/Entropic-Science)
-4. Show up to a weekly call or pick up an issue. No permission needed to start.
+3. Read the founding documents on GitHub: [github.com/Entropic-Science/community](https://github.com/Entropic-Science/community)
+4. Pick up an issue or start a discussion in `#project-discussion`. No permission needed to start.
 
 Looking forward to building this with you.
 
@@ -183,4 +185,4 @@ Looking forward to building this with you.
 
 ## Amendment
 
-This charter may be amended by the admins at their discretion during the initial bootstrapping phase. Once formal governance is adopted, the charter will follow the amendment process described in the [Governance](GOVERNANCE.md) document.
+This charter may be amended by the admins at their discretion during the initial bootstrapping phase. Once formal governance is adopted, the charter will follow the amendment process described in the Governance document.

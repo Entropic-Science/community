@@ -27,12 +27,12 @@ Most activity in this community does not require permission. Decision-making sca
 ### Tier 1: just do it
 Routine work. Start coding, writing, researching, posting, reviewing. Inform others in the relevant Discord channel or GitHub issue. No approval needed.
 
-**Examples**: fixing a bug, writing a blog post, adding a wiki page, reviewing a PR, running an experiment, posting on social media.
+**Examples**: fixing a bug, writing a blog post, adding a knowledge-base page, reviewing a PR, running an experiment, posting on social media.
 
 ### Tier 2: lazy consensus (72 hours)
 Moderate decisions affecting shared resources or community direction. Post your proposal in `#governance` or the relevant GitHub Discussion. State clearly: "I plan to do X. I'll proceed in 72 hours unless someone objects." Silence equals consent. Objections must include a reason and a proposed alternative.
 
-**Examples**: adding a new Discord channel, adopting a new tool, proposing a new workstream, changing a workflow, inviting a batch of new members.
+**Examples**: adding a new Discord channel, adopting a new tool, proposing a new division, changing a workflow, inviting a batch of new members.
 
 ### Tier 3: council discussion (7 days)
 Significant decisions. Open a GitHub Discussion with the `governance` label. Minimum 7-day comment window. If community consensus emerges, the council ratifies it. If not, the council decides by simple majority.
@@ -56,17 +56,17 @@ Constitutional-level changes. Explicit vote by the steering council with a 7-day
 
 **Minimum council size**: 3 members. If the council drops below 3, appointing new members becomes the top priority and follows an expedited 72-hour nomination process.
 
-## Workstream leads
+## Division leads
 
-Each workstream may have a lead who coordinates work, manages the relevant project board, and makes Tier 1/2 decisions within their domain. Workstream leads are nominated by the council or self-nominated with council approval. They do not need to be council members.
+Each division may have a lead who coordinates work, manages the relevant project board, and makes Tier 1/2 decisions within their domain. Division leads are nominated by the council or self-nominated with council approval. They do not need to be council members.
 
-`[PLACEHOLDER: Initial workstream lead assignments, to be decided on first community call]`
+`[PLACEHOLDER: Initial division lead assignments, to be decided on first community call]`
 
 ## Infrastructure access
 
 | Resource | Admin(s) | How to get access |
 |----------|---------|-------------------|
-| GitHub organization | Steering council | Request on weekly call or DM a council member |
+| GitHub organization | Steering council | DM a council member |
 | GitHub repository write access | Steering council + repo maintainers | Same as above |
 | GitHub Projects (task boards) | Steering council | Same as above |
 | Discord server admin | Steering council | Council decision only |

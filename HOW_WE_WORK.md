@@ -1,12 +1,12 @@
 # How we work
 
-This document covers tools, communication norms, and weekly rhythm. Read this first; then see [Contributing](CONTRIBUTING.md) when you are ready to participate.
+This document covers tools, communication norms, and how work is tracked. Read this first; then see [Contributing](CONTRIBUTING.md) when you are ready to participate.
 
 ## Communication
 
-**Discord** ([discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)) is where real-time discussion happens. All coordination, announcements, and informal conversation lives here. If something important is decided in Discord, someone must record it in the appropriate GitHub issue or wiki page.
+**Discord** ([discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)) is where real-time discussion happens. All coordination, announcements, and informal conversation lives here. If something important is decided in Discord, someone must record it in the appropriate GitHub issue or knowledge-base page.
 
-**GitHub** ([github.com/Entropic-Science](https://github.com/Entropic-Science)) is the system of record for all persistent information: code, task tracking (via GitHub Projects), documentation (via wiki), and decision logs (via Discussions).
+**GitHub** ([github.com/Entropic-Science](https://github.com/Entropic-Science)) is the system of record for all persistent information: code, task tracking (via GitHub Projects), and documentation and decision logs (via the [knowledge-base](https://github.com/Entropic-Science/knowledge-base) repository).
 
 **Rule of thumb**: Discord is for talking. GitHub is for remembering. If it needs to survive past this week, it goes on GitHub.
 
@@ -23,17 +23,13 @@ This document covers tools, communication norms, and weekly rhythm. Read this fi
 | `#resources` | Links, papers, tools, references |
 | `#off-topic` | Everything else |
 
-Voice channels are used for weekly calls and ad-hoc working sessions.
-
-## Weekly rhythm
-
-**Weekly community call**: `[PLACEHOLDER: day, time, timezone]`, held on `[PLACEHOLDER: Discord voice / Google Meet / etc.]`. Agenda posted 24 hours before in `#announcements`. Attendance is welcome; notes are posted afterward in the GitHub wiki for those who cannot make it.
+Voice channels are used for ad-hoc calls and working sessions.
 
 ## Task tracking
 
-Active work is tracked on [GitHub Projects](https://github.com/orgs/Entropic-Science/projects). Each workstream has a board with columns: **Backlog → In Progress → In Review → Done**.
+Active work is tracked on [GitHub Projects](https://github.com/orgs/Entropic-Science/projects). Each division has a board with columns: **Backlog → In Progress → In Review → Done**.
 
-To pick up work: find an unassigned issue, comment that you are taking it, and assign yourself. If you need repository write access or project board access, ask on the weekly call or message an admin on Discord.
+To pick up work: find an unassigned issue, comment that you are taking it, and assign yourself. If you need repository write access or project board access, message an admin on Discord.
 
 ## Knowledge base
 
@@ -49,9 +45,9 @@ See the [knowledge-base README](https://github.com/Entropic-Science/knowledge-ba
 - Respond to new members' first messages within 24 hours.
 - If you commit to a task, update its status weekly. If you cannot continue, say so; no shame, just communicate.
 - Mute `#announcements` notifications at your own risk.
-- When in doubt about whether something is a decision, bring it to the weekly call or message an admin.
+- When in doubt about whether something is a decision, message an admin.
 
 ## See also
 
-- [Contributing guide](CONTRIBUTING.md): How to participate and contribution types
+- [Contributing guide](CONTRIBUTING.md): How to participate
 - [Code of conduct](CODE_OF_CONDUCT.md): Behavioral standards

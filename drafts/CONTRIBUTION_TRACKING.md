@@ -28,7 +28,7 @@ This data accumulates in the contribution ledger (Google Sheets) and will inform
 |-------|----------|----------|
 | :computer: | Code & technical | Software development, bug fixes, infrastructure, tooling, CI/CD |
 | :microscope: | Research & knowledge | Experimental design, data collection, evals, analysis, literature reviews |
-| :memo: | Writing & documentation | Papers, preprints, blog posts, wiki pages, tutorials, guides |
+| :memo: | Writing & documentation | Papers, preprints, blog posts, knowledge-base pages, tutorials, guides |
 | :mega: | Outreach & promotion | Social media posts, articles, podcast appearances, conference talks |
 | :handshake: | Community building | Onboarding, moderation, organizing events, mentoring, recruiting |
 | :briefcase: | Fundraising & strategy | Grant applications, partnership development, investor outreach, proposals |
@@ -40,7 +40,7 @@ This taxonomy adapts the [All Contributors](https://allcontributors.org/docs/en/
 
 All non-code contributions are tracked through the weekly contribution cycle in the `#contributions` Discord channel:
 
-1. **Log your work** when the weekly reminder bot posts (every `[PLACEHOLDER: day]`). Describe what you did in natural language. Include links to deliverables where applicable (published posts, submitted applications, wiki edits, etc.).
+1. **Log your work** when the weekly reminder bot posts (every `[PLACEHOLDER: day]`). Describe what you did in natural language. Include links to deliverables where applicable (published posts, submitted applications, knowledge-base edits, etc.).
 2. **Community recognition**: after the bot posts the weekly summary table, community members react with :+1: (1 point) or :heart: (3 points) to contributions they find valuable.
 3. **Accumulation**: your points, self-reported hours, and verified deliverables accumulate in the contribution ledger over time.
 
@@ -75,6 +75,6 @@ After 48 hours, the same person manually compiles submissions into the Google Sh
 
 When this system is adopted, the following documents should be updated:
 
-- **HOW_WE_WORK.md**: Add the "Contribution tracking cycle" section back, referencing the weekly rhythm
+- **HOW_WE_WORK.md**: Add a "Contribution tracking cycle" section describing the weekly cycle
 - **CONTRIBUTING.md**: Replace the "Under construction" note in the "Contribution tracking" section with the full tracking process and taxonomy
 - **README.md**: Add Google Sheets to the Tools table

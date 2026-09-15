@@ -2,6 +2,7 @@
 
 An open research collective building quantum-random AI systems, studying their properties and potential advantages over pseudo-random AI, and advancing the scientific understanding of quantum randomness, consciousness, and their implications for AI alignment.
 
+**Website**: [entropic.science](https://entropic.science)
 **GitHub**: [github.com/Entropic-Science](https://github.com/Entropic-Science)
 **Discord**: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
 
@@ -11,11 +12,11 @@ Every AI system running today relies on pseudo-random number generators (PRNGs) 
 
 Entropic Science exists to investigate what happens when AI systems are built on true quantum randomness instead. We build the infrastructure to make this possible, run experiments to test whether and how it matters, and develop theoretical frameworks connecting quantum mechanics, consciousness, and AI alignment.
 
-Each of us cares about this for different reasons – from understanding the ultimate nature of consciousness to aligning powerful AI systems. But as increasingly powerful deterministic AI systems and ML algorithms are shaping the trajectory of our civilization, we see that domain as particularly urgent and important. If there is any possibility that the source of randomness matters for how these systems behave, for whether they can be meaningfully aligned with conscious beings, or for the deeper relationship between computation and consciousness, we think it would be good to find out whether we should build AI differently while we still have some choice in the matter.
+Each of us cares about this for different reasons – from understanding the ultimate nature of consciousness to aligning powerful AI systems. But increasingly powerful deterministic AI systems are shaping the trajectory of our civilization, which makes AI the most urgent place to look. If the source of randomness has any bearing on how these systems behave, on whether they can be meaningfully aligned with conscious beings, or on the deeper relationship between computation and consciousness, we want to find out – while we still have a choice about how AI is built.
 
 ### What we do
 
-**Infrastructure.** We build tools, APIs, and integration layers that allow AI systems (especially LLMs) to use hardware quantum random number generators (QRNGs) in place of PRNGs. This includes low-latency QRNG pipelines, gRPC server standards, and modular protocols connecting any entropy source to any inference workload. We also explore alternative sources of physical entropy (DRAM timing noise, other hardware generators) for better accessible quantum randomness.
+**Infrastructure.** We build tools, APIs, and integration layers that allow AI systems (especially LLMs) to use hardware quantum random number generators (QRNGs) in place of PRNGs. This includes low-latency QRNG pipelines, gRPC server standards, and modular protocols connecting any entropy source to any inference workload. We also explore alternative sources of physical entropy (DRAM timing noise, other hardware generators) for more accessible quantum randomness.
 
 **Research and evaluation.** We design and run experiments testing whether QRNG-enhanced systems behave measurably differently from deterministic baselines. Beyond standard benchmarks, we study human interaction with these systems – for example through blinded studies in deployment environments.
 
@@ -46,8 +47,8 @@ The full reasoning, research agenda, and philosophical context are in the [Chart
 |----------|----------|
 | [Charter](CHARTER.md) | Mission, scope, motivations, principles, goals |
 | [Code of conduct](CODE_OF_CONDUCT.md) | Behavioral standards and enforcement |
-| [How we work](HOW_WE_WORK.md) | Tools, communication, weekly rhythm |
-| [Contributing guide](CONTRIBUTING.md) | How to participate and contribution types |
+| [How we work](HOW_WE_WORK.md) | Tools, communication, task tracking |
+| [Contributing guide](CONTRIBUTING.md) | How to participate and division scopes |
 
 ## Active projects
 
@@ -56,14 +57,15 @@ The full reasoning, research agenda, and philosophical context are in the [Chart
 | [qr-sampler](https://github.com/Entropic-Science/qr-sampler) | Integrate any source of randomness into LLM token sampling — modular profiles for inference engines, entropy sources, sampling methods |
 | [knowledge-base](https://github.com/Entropic-Science/knowledge-base) | Central knowledge base — shared library, division boards (rosters, proposals, active projects) |
 
-## Workstreams
+## Divisions
 
-| Workstream | Scope |
+| Division | Scope |
 | --- | --- |
-| Quantum-random systems infrastructure | QRNG hardware, APIs, entropy sources, gRPC server development, LLM inference pipeline integration, PRNG/QRNG comparison modes |
-| Research and evaluation | Experimental design, benchmarks, evaluation suites, statistical analysis, publications |
-| Theoretical work | Conceptual frameworks, literature synthesis, philosophy of mind, AI alignment theory |
-| Community, outreach, and fundraising | Social media, articles, partnerships, grant applications, investor outreach, onboarding, events |
+| Infrastructure | Quantum-random LLM inference pipelines, QRNG hardware integration, alternative entropy sources, gRPC server standards, PRNG/QRNG comparison modes, evaluation harnesses |
+| Research | Experimental design, benchmarks and evaluation suites, statistical analysis, theoretical frameworks, literature synthesis, philosophy of mind, AI alignment theory, publications |
+| Outreach-Fundraising | Grant applications, partnerships, investor outreach, social media, articles, events, onboarding, community operations |
+
+Each division has a roster, proposals page, and active projects list in the [knowledge base](https://github.com/Entropic-Science/knowledge-base).
 
 ## Tools
 
@@ -83,7 +85,7 @@ This community is currently administered by its three founders:
 | Jáchym Fibír | @kluck77 |
 | Bradley Stephenson | @orphiceye |
 
-Formal governance structures (steering council, decision-making tiers, workstream leads) are being developed and will be published as a separate [Governance](GOVERNANCE.md) document when ready.
+Formal governance structures (steering council, decision-making tiers, division leads) are being developed and will be published as a separate Governance document when ready.
 
 ## Licensing (unless stated otherwise)
 
@@ -92,5 +94,6 @@ Research and content: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/
 
 ## Contact
 
-Admins: `[PLACEHOLDER: shared email address]`
+Email: [hello@entropic.science](mailto:hello@entropic.science)
+Website: [entropic.science](https://entropic.science)
 Discord: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
