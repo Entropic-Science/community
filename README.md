@@ -6,6 +6,8 @@ An open research collective building quantum-random AI systems, studying their p
 **GitHub**: [github.com/Entropic-Science](https://github.com/Entropic-Science)
 **Discord**: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N3L327FBYZ)
+
 ## The mission
 
 Every AI system running today relies on pseudo-random number generators (PRNGs) for its stochastic processes. Controlled for the random seed, these systems are fully deterministic. The randomness in quantum mechanics is fundamentally different: no known mechanism, algorithm, or hidden variable can account for how a quantum particle "chooses" its definite state upon measurement. This remains one of the deepest open questions in physics.
@@ -87,6 +89,12 @@ This community is currently administered by its three founders:
 
 Formal governance structures (steering council, decision-making tiers, division leads) are being developed and will be published as a separate Governance document when ready.
 
+## Support our work
+
+We are an open collective with no institutional funding. Donations pay for compute, QRNG hardware, and evaluation runs.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N3L327FBYZ)
+
 ## Licensing (unless stated otherwise)
 
 Code: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
@@ -95,5 +103,6 @@ Research and content: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/
 ## Contact
 
 Email: [hello@entropic.science](mailto:hello@entropic.science)
+Support: [ko-fi.com/N3L327FBYZ](https://ko-fi.com/N3L327FBYZ)
 Website: [entropic.science](https://entropic.science)
 Discord: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
