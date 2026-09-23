@@ -102,7 +102,7 @@ Research and content: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/
 
 ## Contact
 
-Email: [hello@entropic.science](mailto:hello@entropic.science)
+Owl post: hello & entropic.science
 Support: [ko-fi.com/N3L327FBYZ](https://ko-fi.com/N3L327FBYZ)
 Website: [entropic.science](https://entropic.science)
 Discord: [discord.gg/2EbveaB2wS](https://discord.gg/2EbveaB2wS)
